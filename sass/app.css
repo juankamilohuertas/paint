@@ -1,0 +1,10 @@
+.conte__lienzo {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+#canvas {
+  outline: 1px solid;
+}/*# sourceMappingURL=app.css.map */
